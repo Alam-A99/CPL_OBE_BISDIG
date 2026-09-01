@@ -13,7 +13,7 @@ from reportlab.lib.units import cm
 
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Dashboard CPL - Multi Mata Kuliah", layout="wide", page_icon="📊")
+st.set_page_config(page_title="Dashboard CPL - OBE", layout="wide", page_icon="📊")
 
 # =========================================================
 # Konfigurasi dasar
