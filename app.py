@@ -357,7 +357,7 @@ def generate_default_course(shift, cpl_map, nama_matkul, sks):
 # =========================================================
 # Header
 # =========================================================
-st.title("📊 Dashboard CPL Multi Mata Kuliah")
+st.title("📊 Dashboard CPL OBE")
 st.caption(
     "Bobot CPL dan identitas matkul cukup diisi **di dalam file Excel** — tidak perlu diatur "
     "manual lagi di aplikasi. Bisa 1 file per matkul, atau **semua matkul dalam 1 file** sekaligus."
