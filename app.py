@@ -13,7 +13,7 @@ from reportlab.lib.units import cm
 
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Dashboard CPL - OBE", layout="wide", page_icon="📊")
+st.set_page_config(page_title="Dashboard CPL - OBE", layout="wide", page_icon="https://github.com/Alam-A99/CPL_OBE_BISDIG/blob/main/bd-512x512.png📊")
 
 # =========================================================
 # Konfigurasi dasar
